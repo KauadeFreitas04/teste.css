@@ -1,6 +1,6 @@
 # teste.css
 
-##Tecnologia ultilizadas
+# Tecnologia ultilizadas
 
 -HTML
 -CSS
